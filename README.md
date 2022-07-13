@@ -6,4 +6,4 @@ It is a medium.com clone with Bootstrap
 ## <a href="https://sinansarikaya.github.io/Medium-Clone/"> Click here for demo </a>
 
 
-![](https://github.com/sinansarikaya/Medium-Clone/blob/main/medium_AdobeExpress.gif)
+![](https://github.com/sinansarikaya/Medium-Clone/blob/main/medium.gif)
